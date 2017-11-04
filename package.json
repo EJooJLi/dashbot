@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ChemeJoo/dashbot/issues"
   },
-  "homepage": "https://github.com/ChemeJoo/dashbot#readme"
+  "homepage": "https://github.com/ChemeJoo/dashbot#readme",
+  "dependencies": {
+    "botbuilder": "^3.11.0"
+  }
 }
