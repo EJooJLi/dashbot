@@ -1,0 +1,19 @@
+{
+  "name": "dashbot",
+  "version": "1.0.0",
+  "description": "dashbot hackathon bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChemeJoo/dashbot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChemeJoo/dashbot/issues"
+  },
+  "homepage": "https://github.com/ChemeJoo/dashbot#readme"
+}
